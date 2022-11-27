@@ -1,7 +1,7 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "اخدمني",
+  "shortName": "خدمات منزلية شاملة التي يسهل حجزها. لا تقلق بشأن تزويد العمال بأي معدات - فنحن تأتي مع معداتناالمهنية الخاصة بهم ، حان الوقت للحصول على مكان متلألئ!",
+  "description": "اخدمنى© للخدمات المنزلية | تنظيف | مكافحة حشرات | نقل عفش",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
   "lang": "en"
